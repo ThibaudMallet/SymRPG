@@ -16,6 +16,18 @@ Il y a différentes zones dans lesquelles on peut trouver différents monstres.
 | Chien     |   2  | 80  |  5  |  2  |  4 |
 | Sanglier  |   2  | 100 |  3  |  4  |  5 |
 | Orc       |   2  | 130 |  4  |  2  |  6 |
+| Loup      |   3  | 200 |  8  |  4  | 10 |
+| Golem     |   3  | 250 | 10  |  6  | 15 |
+| Tréant    |   3  | 300 | 12  |  8  | 20 |
+
+## Zones
+
+| Id |           Nom         |
+|:--:|:---------------------:|
+| 1  |   Les Hautes Herbes   |
+| 2  |   La Grotte Sombre    |
+| 3  | Les Bords du Lac Noir |
+
 
 ## Personnage
 
